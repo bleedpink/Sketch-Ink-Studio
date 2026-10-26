@@ -18,6 +18,8 @@ A browser-based drawing and animation studio built to make creative play feel si
 
 ## 🌷 About the project
 
+<img width="1280" height="1280" alt="1000340208" src="https://github.com/user-attachments/assets/05f8eb5b-5de9-442d-93b1-ef1baba98532" />
+
 **Sketch & Ink Studio** is a lightweight, browser-based creative workspace for people who want to draw, sketch, and explore animation without starting with a complicated setup.
 
 The goal is simple: make creative tools feel approachable. Open the site, make a little space for your imagination, and see where it takes you. Whether you're practising your lines, testing a character idea, or just doodling for fun, this project is made for creative curiosity.
