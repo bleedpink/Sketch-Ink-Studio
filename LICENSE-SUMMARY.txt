@@ -1,0 +1,7 @@
+LICENSE SUMMARY — NOT A SUBSTITUTE FOR LICENSE
+
+Sketch & Ink Studio project code is offered under the PolyForm Noncommercial License 1.0.0. Noncommercial use, modification, and redistribution are permitted under the full terms in LICENSE. Commercial use is not granted and requires separate permission from the relevant rights holder.
+
+This is source-available, noncommercial software, not OSI-approved open-source software. Third-party components retain their own licenses. Read LICENSE and third-party notices before reuse.
+
+Official license text: https://polyformproject.org/licenses/noncommercial/1.0.0
